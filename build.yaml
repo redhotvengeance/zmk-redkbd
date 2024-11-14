@@ -19,6 +19,6 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: splitkb_aurora_sweep_left
+    shield: redkbd_left nice_view_adapter nice_view
   - board: nice_nano_v2
-    shield: splitkb_aurora_sweep_right
+    shield: redkbd_right nice_view_adapter nice_view
